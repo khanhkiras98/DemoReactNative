@@ -1,0 +1,13 @@
+//Navigation
+npm install @react-navigation/native
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+//Redux
+npm install @reduxjs/toolkit
+npm install redux
+npm install react-redux
+npm install redux react-redux lodash.remove
+//react native paper
+npm install react-native-paper
+// react-native link react-native-vector-icons
+npm install --save react-native-vector-icons
